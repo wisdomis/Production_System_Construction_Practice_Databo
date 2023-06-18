@@ -1,3 +1,5 @@
 matplotlib
 yfinance
 pandas
+flask
+jsonify
